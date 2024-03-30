@@ -1,0 +1,17 @@
+genome ThyCyn2
+trackDb Marsupials-hub/ThyCyn2/trackDb.txt
+twoBitPath Marsupials-hub/ThyCyn2/ThyCyn2.2bit
+description Tasmanian tiger v2
+organism Thylacine
+
+genome mMonDom1
+trackDb Marsupials-hub/mMonDom1/trackDb.txt
+twoBitPath Marsupials-hub/mMonDom1/mMonDom1.2bit
+description Opossum genome
+organism Opossum
+
+genome mSarHar111
+trackDb Marsupials-hub/mSarHar111/trackDb.txt
+twoBitPath Marsupials-hub/mSarHar111/mSarHar111.2bit
+description Tasmanian devil
+organism Tazzy devil

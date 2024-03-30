@@ -1,0 +1,5 @@
+hub Marsupials-hub
+shortLabel Marsupials-hub
+longLabel Hub for Marsupial genomes
+genomesFile https://figshare.com/ndownloader/files/45380944
+email support@formbio.com
