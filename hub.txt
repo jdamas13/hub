@@ -1,5 +1,5 @@
 hub Marsupials-hub
 shortLabel Marsupials-hub
 longLabel Hub for Marsupial genomes
-genomesFile https://figshare.com/ndownloader/files/45380944
+genomesFile https://raw.githubusercontent.com/jdamas13/hub/main/genomes.txt
 email support@formbio.com
